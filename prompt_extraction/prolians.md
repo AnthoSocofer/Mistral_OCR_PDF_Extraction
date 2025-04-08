@@ -1,0 +1,5 @@
+* Référence commande (exemple: 21929)
+* Séquent. Libellé (exemple: 69170242 )
+* Qté cdée (exemple : 1,00 )
+* P.U. HT (exemple: 6,42)
+* Délai Liv.(exemple: 21/01/25)

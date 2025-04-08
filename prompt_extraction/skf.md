@@ -1,0 +1,6 @@
+* Numéro de commande client (exemple: 20935/a0557y00)
+* Ligne (exemple: 10)
+* Description (exemple: 059699 )
+* Quantité (exemple : 4 )
+* Prix par unité (exemple: 65,00)
+* Livraison confirmée(exemple: 21.01.2025)

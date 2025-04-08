@@ -1,0 +1,5 @@
+* CUSTOMER (exemple: 14597)
+* DESCRIPTION (exemple: 058778 )
+* QTY (exemple : 4 )
+* PRICE (exemple: 596,00)
+* Order date(exemple: 19.01.2025)

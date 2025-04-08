@@ -1,0 +1,5 @@
+*Référence Commande (exemple: 21854)
+* Désignation (exemple: CBE002-10PL180A )
+* Qté (exemple : 4,00)
+* P.U. HT (exemple: 6,0000)
+* Date de livraison(exemple: 21/01/25)
